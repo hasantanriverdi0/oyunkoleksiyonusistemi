@@ -1,0 +1,13 @@
+C:\Users\hasan\source\repos\oyunkoleksiyonu\oyunkoleksiyonu\bin\Debug\oyunkoleksiyonu.exe.config
+C:\Users\hasan\source\repos\oyunkoleksiyonu\oyunkoleksiyonu\bin\Debug\oyunkoleksiyonu.exe
+C:\Users\hasan\source\repos\oyunkoleksiyonu\oyunkoleksiyonu\bin\Debug\oyunkoleksiyonu.pdb
+C:\Users\hasan\source\repos\oyunkoleksiyonu\oyunkoleksiyonu\obj\Debug\oyunkoleksiyonu.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\oyunkoleksiyonu\oyunkoleksiyonu\obj\Debug\oyunkoleksiyonu.anasayfa.resources
+C:\Users\hasan\source\repos\oyunkoleksiyonu\oyunkoleksiyonu\obj\Debug\oyunkoleksiyonu.Form1.resources
+C:\Users\hasan\source\repos\oyunkoleksiyonu\oyunkoleksiyonu\obj\Debug\oyunkoleksiyonu.oyunekle.resources
+C:\Users\hasan\source\repos\oyunkoleksiyonu\oyunkoleksiyonu\obj\Debug\oyunkoleksiyonu.oyunkoleksiyon.resources
+C:\Users\hasan\source\repos\oyunkoleksiyonu\oyunkoleksiyonu\obj\Debug\oyunkoleksiyonu.Properties.Resources.resources
+C:\Users\hasan\source\repos\oyunkoleksiyonu\oyunkoleksiyonu\obj\Debug\oyunkoleksiyonu.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\oyunkoleksiyonu\oyunkoleksiyonu\obj\Debug\oyunkoleksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\oyunkoleksiyonu\oyunkoleksiyonu\obj\Debug\oyunkoleksiyonu.exe
+C:\Users\hasan\source\repos\oyunkoleksiyonu\oyunkoleksiyonu\obj\Debug\oyunkoleksiyonu.pdb
